@@ -6,7 +6,6 @@ A Nuxt 3 + TypeScript + Vuetify single-page experience for composing and preview
 - Modern Vuetify-based layout with live preview.
 - Compose subject, recipients, and body with real-time syncing.
 - Attachment chips show selected files.
-- Email template picker with starter templates and the ability to save your own for reuse.
 
 ## Getting started
 1. Install dependencies
